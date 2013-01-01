@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		// 니나노 dasd
+		// 준영이 개새기야 누가 쳐자래
 	}
 
 	@Override
